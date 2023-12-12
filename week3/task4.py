@@ -20,6 +20,9 @@ for i in range(1,51):
         print(i,end=" ")
 
 
+
+
+
 print(f"the sum of all the even numbers from 1 to 50 (inclusive) is {sumOfEven}")
 print(f"the count of numbers replaced with 'Three' or 'Five' is {count}")
 print(f"the sum of all the numbers replaced with 'Three' or 'Five' is {sumOfReplaced}")
